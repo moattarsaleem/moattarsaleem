@@ -1,10 +1,9 @@
 
-<h2 align="left">Hi 👋 I am Moattar Saleem !<br>A passionate developer turning ideas into scalable and impactful software solutions.</h2>
+<h2 align="left">Hi 👋 I am Moattar Saleem !<br>Web developer focused on building clean, responsive, and user-friendly websites. Passionate about learning modern web technologies and creating impactful web experiences.</h2>
 
 ###
 
-💫 About Me:
-Web developer focused on building clean, responsive, and user-friendly websites. Passionate about learning modern web technologies and creating impactful web experiences.
+
 
 
 <img align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg"  />
@@ -32,8 +31,6 @@ Web developer focused on building clean, responsive, and user-friendly websites.
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
 
 
 
